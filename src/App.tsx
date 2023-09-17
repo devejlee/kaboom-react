@@ -18,7 +18,7 @@ function App() {
     }) as KaboomCtx;
 
     // load assets
-    k.loadSprite('bean', 'public/bean.png');
+    k.loadSprite('bean', 'public/vite.svg');
 
     // keep track of score
     let score = '0';
